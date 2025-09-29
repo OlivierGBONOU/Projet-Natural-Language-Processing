@@ -1,5 +1,7 @@
 # 🎵 Analyse des Sentiments des Chansons - Projet NLP
 
+*Lien Git* : `https://github.com/OlivierGBONOU/Projet-Natural-Language-Processing`
+
 ## 🧠 Description
 
 Ce projet vise à effectuer une **analyse des sentiments** à partir des paroles des chansons d'un artiste donné.
@@ -95,4 +97,4 @@ Vous pouvez remplacer les lignes suivantes dans `1_python.py` :
 
 ## 👨‍💻 Auteurs
 
-Projet réalisé dans le cadre du cours de traitement automatique du langage naturel.
+Projet réalisé dans le cadre du cours de traitement automatique du langage naturel. 
